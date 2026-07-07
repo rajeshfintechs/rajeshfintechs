@@ -51,7 +51,4 @@ Business analysis project using Excel and Power BI report design to identify sal
 
 📧 Rajeshtecz@gmail.com
 
-💼 LinkedIn:
-(https://www.linkedin.com/in/rajesh-kanthi-99b280257)
-
 ⭐ Thanks for visiting my profile!
